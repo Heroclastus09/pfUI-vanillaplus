@@ -64,6 +64,7 @@ pfUI:RegisterModule("vanillaplus", function()
     pfUI_locale["enUS"]["debuffs"]['Screech']={[0]=10.0,}
     pfUI_locale["enUS"]["debuffs"]['Starfall Stun']={[0]=4.0,}
     pfUI_locale["enUS"]["debuffs"]['Thunder Clap']={[0]=30.0,}
+    pfUI_locale["enUS"]["debuffs"]['Rake']={[0]=15.0,}
   end
 
   if pfUI.api.libtotem and pfUI.api.libtotem.totems then -- adjust totem durations
